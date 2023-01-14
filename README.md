@@ -11,9 +11,6 @@
 <h5>🌱 I'm currently learning React!</h5>
 
 <br>
-<br>
-
-
 <h3>🍍 My Skills 🍍 </h3> <br>
 	
 <img src="https://img.shields.io/badge/HTML5-FF7052?style=flat&logo=HTML5&logoColor=white"/>
@@ -23,17 +20,15 @@
 
 <br>
 <br>
-<br><br>
+<br>
 
 <h3>🍏 My Stats 🍏</h3> <br>	
-
-
 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&&title_color=A2C758&icon_color=FC8E56&count_private=true">
 <br>
 <br>
-<br>	
+
 <h3>🍊 My Langs 🍊</h3> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZziBooOooo&layout=compact&title_color=FC8E56&theme=vue">
 
