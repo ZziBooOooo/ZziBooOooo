@@ -1,7 +1,7 @@
 <div align="center"> 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&&color=FFC468&height=200&section=header&fontSize=80&&animation=fadeIn&fontColor=FDF7FF)
+![header](https://capsule-render.vercel.app/api?type=wave&&color=BBD8F7&height=200&section=header&fontSize=80&&animation=fadeIn&fontColor=FDF7FF)
 
 
 
@@ -23,14 +23,18 @@
 
 <br>
 <br>
+<br><br>
+
+<h3>🍏 My Stats 🍏</h3> <br>	
+
+
+
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&&title_color=A2C758&icon_color=FC8E56&count_private=true">
 <br>
+<br>
+<br>	
+<h3>🍊 My Langs 🍊</h3> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZziBooOooo&layout=compact&title_color=FC8E56&theme=vue">
 
-<h3>🍊 My Stats 🍊</h3> <br>	
-
-
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&&title_color=9CC182&icon_color=F9AD5C&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZziBooOooo&layout=compact&title_color=9CC182&theme=vue">
-</p>
 </div>
