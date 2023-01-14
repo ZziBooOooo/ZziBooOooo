@@ -1,7 +1,7 @@
 <div align="center"> 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&&color=FFA343&height=200&section=header&fontSize=80&&animation=fadeIn&fontColor=FDF7FF)
+![header](https://capsule-render.vercel.app/api?type=wave&&color=FFC468&height=200&section=header&fontSize=80&&animation=fadeIn&fontColor=FDF7FF)
 
 
 
