@@ -6,7 +6,7 @@
 
 
 <h1>Hi I'm ZziBoo 💗</h1>
-<h4>Thankyou for visiting</h4>
+<h4>🌷Thankyou for visiting</h4>
 <h5>🌵 My dream is to be a FrontEnd developer</h5>
 <h5>🌱 I'm currently learning React!</h5>
 
@@ -14,7 +14,7 @@
 <br>
 
 
-<h3>🍓 My Skills 🍓 </h3> <br>
+<h3>🍍 My Skills 🍍 </h3> <br>
 	
 <img src="https://img.shields.io/badge/HTML5-FF7052?style=flat&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-52AAFF?style=flat&logo=CSS3&logoColor=white"/>
@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<h3>🍍 My Stats 🍍</h3> <br>	
+<h3>🍊 My Stats 🍊</h3> <br>	
 
 
 
