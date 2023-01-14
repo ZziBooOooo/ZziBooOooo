@@ -1,7 +1,7 @@
 <div align="center"> 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&&color=FDC983&height=200&section=header&fontSize=80&&animation=fadeIn&fontColor=FDF7FF)
+![header](https://capsule-render.vercel.app/api?type=wave&&color=FFA343&height=200&section=header&fontSize=80&&animation=fadeIn&fontColor=FDF7FF)
 
 
 
@@ -30,7 +30,7 @@
 
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&&title_color=FCA554&icon_color=F9AD5C&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&&title_color=9CC182&icon_color=F9AD5C&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZziBooOooo&layout=compact&title_color=9CC182&theme=vue">
 </p>
 </div>
