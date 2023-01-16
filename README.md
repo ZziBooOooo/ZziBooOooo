@@ -23,17 +23,15 @@
 <br>
 
 <h3>🍏 My Stats 🍏</h3> <br>	
-
-
-  <img height="180em" src="https://zzi-boo-oooo-zziboooooo.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&&title_color=A2C758&icon_color=FC8E56&count_private=true">
+	
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&&title_color=A2C758&icon_color=FC8E56&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
 <h3>🍊 My Langs 🍊</h3> <br>
-  <img height="180em" src="https://zzi-boo-oooo-zziboooooo.vercel.app/api/top-langs/?username=ZziBooOooo&layout=compact&title_color=FC8E56&theme=vue">
+<img height="180em" src="https://zzi-boo-oooo-zziboooooo.vercel.app/api/top-langs/?username=ZziBooOooo&layout=compact&title_color=FC8E56&theme=vue">
 
-	https://zzi-boo-oooo-zziboooooo.vercel.app/
-	
-	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZziBooOooo)](https://github.com/anuraghazra/github-readme-stats)	
+
 	
 </div>
