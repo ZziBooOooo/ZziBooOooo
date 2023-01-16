@@ -29,9 +29,9 @@
 <br>
 
 <h3>🍊 My Langs 🍊</h3> <br>
-<img height="180em" src="https://zzi-boo-oooo-zziboooooo.vercel.app/api/top-langs/?username=ZziBooOooo&layout=compact&title_color=FC8E56&theme=vue">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZziBooOooo)](https://github.com/anuraghazra/github-readme-stats)	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZziBooOooo&layout=compact&title_color=FC8E56&theme=vue)](https://github.com/anuraghazra/github-readme-stats)	
 
-	
+<br>
+<br>
 </div>
