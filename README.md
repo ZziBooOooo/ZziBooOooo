@@ -24,7 +24,8 @@
 
 <h3>🍏 My Stats 🍏</h3> <br>	
 	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&title_color=A2C758&icon_color=FC8E56&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZziBooOooo&show_icons=true&include_all_commits=true&title_color=A2C758&icon_color=A2C758&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <br>
 
