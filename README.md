@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/HTML5-FF7052?style=flat&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-52AAFF?style=flat&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-FFAB00?style=flat&logo=JavaScript&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/TypeScript-0080FF?style=flat&logo=TypeScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/React-54C6FC?style=flat&logo=React&logoColor=white"/>
 
 <br>
